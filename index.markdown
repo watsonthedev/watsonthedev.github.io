@@ -1,1 +1,1 @@
-This is my new website!
+![A test image](images/construction.gif)
