@@ -1,1 +1,1 @@
-!(images/construction.gif)
+![Test Image](images/construction.gif)
