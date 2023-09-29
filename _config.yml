@@ -6,11 +6,11 @@ baseurl:            "/"
 url:                "https://watsonthedev.github.io"
 
 # Social Profiles
-twitter_username:   watsonthedev
+linkedin_username: watsonthedev
 github_username:    watsonthedev
+twitter_username:   watsonthedev
 # facebook_username:  
 # instagram_username:  
-linkedin_username: watsonthedev
 
 # Add your google-analytics ID here to activate google analytics
 # google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
