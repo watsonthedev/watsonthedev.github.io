@@ -1,6 +1,6 @@
 title:              watsonthedev
 # email:              your-email@example.com
-description:        A repository for my thoughts as a software developer
+description:        A repository for my thoughts
 author:             
 baseurl:            "/"
 url:                "https://watsonthedev.github.io"
@@ -8,7 +8,7 @@ url:                "https://watsonthedev.github.io"
 # Social Profiles
 linkedin_username: watsonthedev
 github_username:    watsonthedev
-twitter_username:   watsonthedev
+# twitter_username: 
 # facebook_username:  
 # instagram_username:  
 
