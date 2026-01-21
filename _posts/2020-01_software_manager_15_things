@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "15 Things I've "
-subtitle: "Problems look mighty small from 150 miles up"
+title: "15 Things I've Learned As a Dev Manager"
 date: 2023-01
 background: '/img/posts/06.jpg'
 ---
@@ -20,7 +19,7 @@ background: '/img/posts/06.jpg'
 
 7. There are no easy solutions to complex problems, and most of the problems dev teams are trying to solve are complex.
 
-8. The core tenants of the Agile Manifesto (https://lnkd.in/drZJFnan) and the Agile Principles (https://lnkd.in/dP55jv5b) are as applicable today as they were when first written over 20 years ago.
+8. The core tenants of the <a href="https://agilemanifesto.org">Agile Manifesto</a> and the <a href="https://agilemanifesto.org/principles.html">Agile Principles</a> are as applicable today as they were when first written over 20 years ago.
 
 9. There are no “bad devs” but rather good devs in bad circumstances.
 
