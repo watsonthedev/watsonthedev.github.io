@@ -33,9 +33,9 @@ layout: default
         {% for post in site.posts limit : 5 %}
 
         <article class="post-preview">
-          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+          <!-- <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}"> -->
             <h3 class="post-title">{{ post.title }}</h3>
-          </a>
+          <!-- </a> -->
           
           <p class="post-meta">
             {{ post.date | date: '%B, %Y' }} &middot; {% include read_time.html content=post.content %}            

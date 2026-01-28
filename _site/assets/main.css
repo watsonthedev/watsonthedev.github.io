@@ -2793,7 +2793,7 @@ header.masthead .page-heading, header.masthead .site-heading { text-align: cente
 header.masthead .page-heading h1, header.masthead .site-heading h1 { font-size: 50px; margin-top: 0; }
 header.masthead .page-heading .subheading, header.masthead .site-heading .subheading { font-size: 24px; font-weight: 300; line-height: 1.1; display: block; margin: 10px 0 0; font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
 @media only screen and (min-width: 768px) { header.masthead .page-heading h1, header.masthead .site-heading h1 { font-size: 80px; } }
-header.masthead .post-heading h1 { font-size: 35px; white-space: nowrap; }
+header.masthead .post-heading h1 { font-size: 35px; }
 header.masthead .post-heading .meta, header.masthead .post-heading .subheading { line-height: 1.1; display: block; }
 header.masthead .post-heading .subheading { font-size: 24px; font-weight: 600; margin: 10px 0 30px; font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
 header.masthead .post-heading .meta { font-size: 20px; font-weight: 300; font-style: italic; font-family: "Lora", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
@@ -2801,9 +2801,9 @@ header.masthead .post-heading .meta a { color: #fff; }
 @media only screen and (min-width: 768px) { header.masthead .post-heading h1 { font-size: 55px; }
   header.masthead .post-heading .subheading { font-size: 30px; } }
 
-.post-preview > a { color: #212529; }
-.post-preview > a:focus, .post-preview > a:hover { text-decoration: none; color: #0085A1; }
-.post-preview > a > .post-title { font-size: 30px; margin-top: 30px; margin-bottom: 10px; }
+.post-preview { color: #212529; }
+/* .post-preview > a:focus, .post-preview > a:hover { text-decoration: none; color: #0085A1; } */
+.post-preview .post-title { font-size: 36px; margin-top: 30px; margin-bottom: 10px; }
 .post-preview > a > .post-subtitle { font-weight: 300; margin: 0 0 10px; }
 .post-preview > .post-meta { font-size: 18px; font-style: italic; margin-top: 0; color: #6c757d; }
 .post-preview > .post-meta > a { text-decoration: none; color: #212529; }
